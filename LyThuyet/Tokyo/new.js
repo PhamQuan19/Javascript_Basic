@@ -51,3 +51,4 @@ var m3={name:'m3'};
 tom.eat(m1).eat(m2).eat(m3); //method chaining
 console.log('Tom:');
 console.log(tom);
+
